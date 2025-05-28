@@ -5,6 +5,9 @@
 [submodule "onls"]
 	path = onls
 	url = https://github.com/cran/onls
+[submodule "propagate"]
+	path = propagate
+	url = https://github.com/anspiess/propagate
 [submodule "reverseR"]
 	path = reverseR
 	url = https://github.com/anspiess/reverser
